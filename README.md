@@ -19,7 +19,6 @@
 ---
 
 ## 1. Project Overview
-## 1. Project Overview
 
 This project focuses on **Data Preprocessing** and **Exploratory Data Analysis (EDA)** for a **Customer Churn Dataset**.  
 The dataset simulates real-world customer information, including demographics, product usage, and churn behavior, to help identify key patterns influencing customer retention.
@@ -34,7 +33,6 @@ All analysis was implemented in **Python** using libraries such as `pandas`, `ma
 The complete preprocessing pipeline and justifications are also showcased in the hosted Streamlit web app:  
 -> [**churn-ml**](https://churn-ml.streamlit.app/)
 
-## 2. Dataset Description
 ## 2. Dataset Description
 
 The dataset used in this project is a **synthetic customer churn dataset** that simulates a company’s customer database.  
