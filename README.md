@@ -1,6 +1,6 @@
 # Customer Data Preprocessing and Exploratory Data Analysis (EDA)
 ---
-# <p align="center">--------------------------------[churn-ml](https://churn-ml.streamlit.app/)--------------------------------</p>
+# <p align="center">------------[churn-ml](https://churn-ml.streamlit.app/)------------</p>
 
 - is a Streamlit web app that showcases the entire data preprocessing and exploratory data analysis (EDA) process, including justifications, visualizations, and insights derived from the customer dataset.
 ---
